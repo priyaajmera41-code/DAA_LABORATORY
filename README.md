@@ -11,14 +11,14 @@
 
 <br>
 
-# PYTHON PROGRAMMING LAB
+# DAA LAB
 
 ### LAB RECORD
 
 <br><br>
 
-**Student Name:** PARISHI MATHUR
-**Enrollment Number:** 240075
+**Student Name:** PRIYA AJMERA
+**Enrollment Number:** 240082
 
 <br>
 
